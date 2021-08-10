@@ -95,6 +95,7 @@ overflow: hidden;
     justify-content: center;
     align-items: center;
 }
+
 .detalle{
     color: var(--Grayish-blue);
     text-transform: uppercase;
